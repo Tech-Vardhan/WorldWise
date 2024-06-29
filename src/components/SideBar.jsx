@@ -9,7 +9,6 @@ function SideBar() {
       <Logo />
       <AppNav />
       <Outlet />
-      <p>List of cites</p>
       <footer className={styles.footer}>
         <p> &copy; Copyright {new Date().getFullYear()} WorldWise Inc.</p>
       </footer>
