@@ -1,6 +1,7 @@
 <!-- npm install eslint vite-plugin-eslint eslint-config-react-app --save-dev -->
 <!-- npm create vite@2 -->
 <!-- npm i react-router-dom@6 -->
+<!-- npm i react-leaflet leaflet -->
 
 # React + TypeScript + Vite
 
