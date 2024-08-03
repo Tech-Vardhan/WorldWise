@@ -1,5 +1,5 @@
-import Button from "./Button";
 import { useNavigate } from "react-router-dom";
+import Button from "./Button";
 
 function BackButton() {
   const navigate = useNavigate();
@@ -12,7 +12,7 @@ function BackButton() {
         navigate(-1);
       }}
     >
-      &larr;{" "}
+      &larr; Back
     </Button>
   );
 }

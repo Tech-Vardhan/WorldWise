@@ -1,8 +1,9 @@
 import { NavLink } from "react-router-dom";
-import style from "./AppNav.module.css";
+import styles from "./AppNav.module.css";
+
 function AppNav() {
   return (
-    <nav className={style.nav}>
+    <nav className={styles.nav}>
       <ul>
         <li>
           <NavLink to="cities">Cities</NavLink>
